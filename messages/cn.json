@@ -3,7 +3,7 @@
     "loading": "加载中..."
   },
   "Navigation": {
-    "title": "开源Template App工具目录",
+    "title": "Template App工具目录",
     "discover": "发现AI",
     "submit": "提交",
     "newtools": "新工具",
@@ -11,7 +11,7 @@
     "menu": "菜单"
   },
   "Footer": {
-    "title": "开源Template App工具目录",
+    "title": "Template App工具目录",
     "subTitle": "发现2024年最佳AI工具，尽在Template App工具目录！",
     "support": "支持",
     "tap4": "Template App",
@@ -64,10 +64,6 @@
     "10": {
       "question": "AI工具的使用权是什么？",
       "answer": "Template App工具目录只是AI工具的目录。AI工具的使用权基于AI工具的网站。"
-    },
-    "11": {
-      "question": "Template App目录的Web UI是开源的吗？",
-      "answer": "是的，我们将在GitHub（https://github.com/6677-ai/tap4-ai-webui）上开源Template App目录的Web UI。请给我们点星。"
     }
   },
   "FooterNavigation": {
