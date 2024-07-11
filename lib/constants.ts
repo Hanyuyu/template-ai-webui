@@ -24,7 +24,7 @@ export const InfoPageSize = 12;
 export const FORM_PLACEHOLDER = 'https://template-app.com/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://template-app.com/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+  '<a href="https://template-app.com/" title="Template AI Tools Directory">Template AI Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {
