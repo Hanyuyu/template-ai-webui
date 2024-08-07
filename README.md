@@ -202,7 +202,14 @@ Due to compatibility issues with different site anti-crawling mechanisms, the cr
 such issues, you currently need to manually query the database submit table, and then manually create the relevant
 website content and insert it into the web_navigation table.
 
+### How to get the ai tools for project initialization?
+
+You can get the 13000+ AIs from Tap4 AI collected from other AI Tools Directory in
+[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
+
 ## Wanna submit your website on Tap4.ai?
+
+Open: [Tap4 AI](https://tap4.ai)
 
 ### Wanna add you website to our `/startup` page?
 
@@ -230,18 +237,6 @@ Stable Diffusion 3 Medium is currently available for free experience, please vis
 
 Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
 [Tattoo AI Design](https://tattooai.design)
-
-## Sponsor List
-
-### Anime Girl Studio -- AI Anime Girl Chat & Generator
-
-Anime Girl Studio is the ai anime girl generator and chat product. You can generate what you like and chat with the AI
-anime girl, please visit [Anime Girl Studio](https://animegirl.studio)
-
-### Best AI Girl Friend -- Best AI Girl Chat & Generator
-
-Best AI Girl Friend is the ai girl generator and chat product. You can generate what you like and chat with the AI anime
-girl, please visit [Best AI Girl Friend](https://aigirl.best)
 
 ## Other open source
 
